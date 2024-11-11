@@ -6,6 +6,9 @@
   <a href="mailto:pratikt1215@gmail.com">Email</a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratik-Tech-Wizard&label=Profile%20views&color=0e75b6&style=flat" alt="Pratik-Tech-Wizard" /> </p>
+
+
 -----------------------------------------------------------
 👨🏻‍💻 **About Me** <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
 ✨ Full Stack with AI Developer | Upcoming Software Engineer <br>
@@ -29,8 +32,7 @@
 
 ## :zap: Open Source Programs & Achievements
 
-[![An image of @pratiktechwizard's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratiktechwizard#)](https://holopin.io/@pratiktechwizard#)
-
+[![An image of @pratiktechwizard's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratiktechwizard)](https://holopin.io/@pratiktechwizard)
 <br>
 <!--<div align="center">
   <table>
