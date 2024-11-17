@@ -184,6 +184,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pratik-Tech-Wizard&theme=algolia)](https://git.io/streak-stats)
 ---
 
+Thanks for visiting my profile! Feel free to reach out or check out some of the projects I've worked on. Happy coding! 👨‍💻✨
 <!---
 Pratik-Tech-Wizard/Pratik-Tech-Wizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
