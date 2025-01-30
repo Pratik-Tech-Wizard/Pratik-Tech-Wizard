@@ -6,7 +6,7 @@
   <a href="mailto:pratikt1215@gmail.com">Email</a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratik-Tech-Wizard&label=Profile%20views&color=0e75b6&style=flat" alt="Pratik-Tech-Wizard" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Pratik-Tech-Wizard&label=Profile%20views&color=0e75b6&style=flat" alt="Pratik-Tech-Wizard" /> </p>
 
 # Welcome to My GitHub Profile! 👋
 
@@ -22,7 +22,7 @@ Hi there! I'm Pratik, a passionate Developer with a love for coding, open-source
 <a href="https://auth.geeksforgeeks.org/user/pratikgfg12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pratikgfg12" height="30" width="40" /></a>
 </p>
 
-
+-------
 
 👨🏻‍💻 **About Me** <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
 🔭 Full Stack with AI Developer | Upcoming Software Engineer <br>
