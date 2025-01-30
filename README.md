@@ -8,11 +8,37 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratik-Tech-Wizard&label=Profile%20views&color=0e75b6&style=flat" alt="Pratik-Tech-Wizard" /> </p>
 
+# Welcome to My GitHub Profile! 👋
+
+Hi there! I'm Pratik, a passionate Developer with a love for coding, open-source projects, artficial intelligence, machine learning, data analytics etc. I enjoy building innovative solutions, contributing to open-source, and constantly learning new technologies.
 
 -----------------------------------------------------------
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pratikt1215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jbose1603" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pratikpandaofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratikpandaofficial" height="30" width="40" /></a>
+<a href="https://instagram.com/p_panda1214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p_panda1214" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pratikgfg12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pratikgfg12" height="30" width="40" /></a>
+</p>
+
+
+
 👨🏻‍💻 **About Me** <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
-✨ Full Stack with AI Developer | Upcoming Software Engineer <br>
-✨ I’m looking to collaborate on Open-Source projects. <br>
+🔭 Full Stack with AI Developer | Upcoming Software Engineer <br>
+👯 I’m looking to collaborate on Open-Source projects. <br>
+
+<!-- ## 🚀 About Me
+
+- 🔭 I’m currently working on [Current Project or Focus].
+- 🌱 I’m currently learning [What You're Learning, e.g., React, TensorFlow, etc.].
+- 👯 I’m looking to collaborate on [Type of Projects You're Interested In].
+- 🤔 I’m looking for help with [Specific Challenges or Topics].
+- 💬 Ask me about [Topics You're Knowledgeable About].
+- 📫 How to reach me: [Your Email or Social Media Links].
+- 😄 Pronouns: [Your Pronouns, e.g., He/Him, She/Her, They/Them].
+- ⚡ Fun fact: [A Fun Fact About You]. -->
+
 
 ### 📈 GitHub Stats:
 
@@ -177,15 +203,21 @@
 
 ---
 
-
 ### 📈 Contribution Graph:
 
 ![Pratik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratik-Tech-Wizard&theme=react-dark&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pratik-Tech-Wizard&theme=algolia)](https://git.io/streak-stats)
 ---
 
+## 🤝 Let's Connect!
+
+I'm always open to connecting with fellow developers, collaborating on projects, or just having a chat. Feel free to reach out to me via:
+- [LinkedIn](https://www.linkedin.com/in/pratikpandaofficial/)
+- [Twitter](https://x.com/pratikt1215)
+- [Email](mailto:pratikt1215@gmail.com)
+
+---
+
+⭐️ From [Pratik K Panda](https://github.com/Pratik-Tech-Wizard)
+
 Thanks for visiting my profile! Feel free to reach out or check out some of the projects I've worked on. Happy coding! 👨‍💻✨
-<!---
-Pratik-Tech-Wizard/Pratik-Tech-Wizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
