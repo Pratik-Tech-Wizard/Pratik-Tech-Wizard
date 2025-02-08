@@ -41,23 +41,38 @@ Hi there! I'm Pratik, a passionate Developer with a love for coding, open-source
 
 <h3 align="left"><b>🛠 Tech Stack</b><br></h3>
 
-<b>Languages:</b> 
-<img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
-<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat">&nbsp;
+<b>Languages:</b>
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 <br>
 
 <b>Frameworks and Libraries:</b> 
-<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 <!---<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp; --->
 <br>
 
 <b>Tools and Platforms:</b> 
 <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
+
 <br>
 
 <b>Operating Systems:</b> 
@@ -67,13 +82,19 @@ Hi there! I'm Pratik, a passionate Developer with a love for coding, open-source
 
 <br>
 
-
+<!--
 ### 📈 GitHub Stats:
 
 ![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratik-Tech-Wizard&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pratik-Tech-Wizard&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
-
----
+-->
+<!--stats-->
+<summary><b>⚙️ GitHub Analytics</b></summary>
+<a href="https://github.com/Pratik-Tech-Wizard">
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratik-Tech-Wizard&theme=github_dark" alt="Pratik github stats" />
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratik-Tech-Wizard&theme=github_dark" alt="My Top Languages" />
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratik-Tech-Wizard&theme=github_dark" alt="Stats" class="center" />
+<br>
 
 
 <!--<h2 style="text-decoration: none;">GSSOC(24) Badges 🪶</h2>
