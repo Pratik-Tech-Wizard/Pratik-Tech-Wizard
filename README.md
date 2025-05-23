@@ -10,7 +10,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm Pratik, a passionate Developer with a love for coding, open-source projects, artficial intelligence, machine learning, data analytics etc. I enjoy building innovative solutions, contributing to open-source, and constantly learning new technologies.
+Hi! I'm Pratik, a passionate Developer with a love for coding, open-source projects, artficial intelligence, machine learning, data analytics etc. I enjoy building innovative solutions, contributing to open-source, and constantly learning new technologies.
 
 -----------------------------------------------------------
 
